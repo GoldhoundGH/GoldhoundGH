@@ -1,4 +1,4 @@
-## Hi there 👋
+## Lorem ipsum dolor sit amet
 
 <!--
 **GoldhoundGH/GoldhoundGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
