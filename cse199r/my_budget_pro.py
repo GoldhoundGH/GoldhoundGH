@@ -9,7 +9,7 @@ import pytest
 
 if True:
     TITLE = "MY BUDGET PRO"
-    FILE_NAME = "my_budget_pro_submit_version"
+    FILE_NAME = "my_budget_pro"
 
     DATE_FORMAT = '%Y-%m-%d'
     
