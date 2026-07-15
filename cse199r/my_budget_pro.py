@@ -560,6 +560,7 @@ def add_entry(new_year="",new_month="",new_day="",new_amount="",new_category="")
                 clean_text += input_msg + " `_6 " + day + " `n1 "
                 break
             except:
+                day_default = "0"
                 if day_error == 0:
                     text += " `n1 <Invalid input> `n1"
                     day_error = 1
