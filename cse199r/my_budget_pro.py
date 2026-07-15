@@ -1,23 +1,3 @@
-"""
-NOTE TO INSTRUCTOR / WHOMEVER MAY ATTEMPT TO RUN THIS PROGRAM
-
-This program was designed with a rudimentary user interface intended to be run in an independent command line terminal and
-will likely not display correctly if launched from VS Code.  It was designed this way because this program was made according
-to the client's desired specifications (the client being myself, since this is for personal use as well as a grade).
-
-The program may display correctly if the VS Code terminal window is expanded sufficiently,
- - OR - 
-the program was intended to be run in an independent terminal window. To do this, right-click this program file in your file
-explorer and from the 'Open With' option menu, select 'Python'. (Instructions are provided in the off chance they were not
-already known or if what I meant was not clear.)  On my computer, this launches the program in an independent command line 
-terminal window.  I assume it will do the same on yours but I can't account for that, since development was restricted to
-the environments of the computers I own.
-
-If there are unresolvable problems attempting to launch the program or view its contents correctly, I am willing to demonstrate
-its use on my computer.  In that case, I can be reached at 541-403-2211, though I do not anticipate that will necessary.
-"""
-
-
 from os import system
 from datetime import date
 from calendar import monthrange,month_name
