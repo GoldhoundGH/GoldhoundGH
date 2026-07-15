@@ -1278,7 +1278,7 @@ def compiance_statement():
     " Perhaps it was unnecessary to test it, `n1_6 but my other 2 required text functions do meet the requirements. The third is a bonus, extra, `n1_6 not-required test function. `n2 "
     text += " As demonstrated here, my program complies with every requirement stated in the grading rubric.  Accordingly, I would request that any other grading constraints which were not " \
     " clearly written in this rubric, where they could have been referred to as needed throughout the development of this program, be excluded from use in the calculation of my final grade. `n2"
-    text += " Thank you `n1_18 - Micah Bradford `n1 "
+    text += " Thank you "
     print(gen_display(text))
     input_proper("Press enter to return to menu...")
 
@@ -1287,7 +1287,7 @@ def ai_statement():
     text += " While and since this program uses a few concepts and tools not covered in this course (such as classes), I would like to state and declare that " \
     " I did not use AI in any part of the development of this program, nor did I copy any code or block of work from other develops (with the exception of the " \
     " code at line 39, which sets the dimensions of the terminal window). This program is my own original work, based on my learning both in as well as outside of class. `n2 "
-    text += " Thank you `n1_18 - Micah Bradford `n1 "
+    text += " Thank you "
     print(gen_display(text))
     input_proper("Press enter to return to menu...")
 
