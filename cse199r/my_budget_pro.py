@@ -1287,7 +1287,7 @@ def ai_statement():
     text = " STUDENT'S STATEMENT REGARDING USE OF AI: `n2 "
     text += " While and since this program uses a few concepts and tools not covered in this course (such as classes), I would like to state and declare that " \
     " I did not use AI in any part of the development of this program, nor did I copy any code or block of work from other develops (with the exception of the " \
-    " code at line 39, which sets the dimensions of the terminal window). This program is my own original work, based on my learning both in as well as outside of class. `n2 "
+    " code at line 20, which sets the dimensions of the terminal window). This program is my own original work, based on my learning both in as well as outside of class. `n2 "
     text += " Thank you "
     print(gen_display(text))
     input_proper("Press enter to return to menu...")
